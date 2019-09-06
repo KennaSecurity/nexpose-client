@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rake')
   s.add_development_dependency('rspec', '~> 3.2')
   s.add_development_dependency('rubocop')
-  s.add_development_dependency('webmock', '~> 1.20.4')
+  s.add_development_dependency('webmock', '~> 3.7.2')
   s.add_development_dependency('vcr', '~> 2.9.3')
   s.add_development_dependency('github_changelog_generator')
   s.add_development_dependency('pry', '0.9.12.6')
